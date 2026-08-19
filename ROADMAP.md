@@ -62,11 +62,11 @@ Regra de dependência: `Domain` não referencia nada. `Application` referencia `
 - [x] SSMS conectado ao container
 
 ### 🔵 Fase 1 — MVP (em andamento)
-- [ ] Entidade `Liga` no Domain
-- [ ] Entidade `Time` no Domain
-- [ ] Entidade `Jogador` no Domain
-- [ ] `DbContext` + configuração do Identity no Infrastructure
-- [ ] Primeira migration + banco criado
+- [x] Entidade `Liga` no Domain
+- [x] Entidade `Time` no Domain
+- [x] Entidade `Jogador` no Domain
+- [x] `DbContext` + configuração do Identity no Infrastructure
+- [x] Primeira migration + banco criado
 - [ ] Interfaces de repositório no Application (`ILigaRepository`, `ITimeRepository`, `IJogadorRepository`)
 - [ ] Implementação dos repositórios no Infrastructure
 - [ ] DTOs de entrada/saída no Application
