@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Circuitly.Api/Circuitly.Api.csproj" />
+    <Project Path="src/Circuitly.Application/Circuitly.Application.csproj" />
+    <Project Path="src/Circuitly.Domain/Circuitly.Domain.csproj" />
+    <Project Path="src/Circuitly.Infrastructure/Circuitly.Infrastructure.csproj" />
+  </Folder>
+</Solution>
