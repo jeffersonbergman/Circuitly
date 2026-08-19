@@ -1,0 +1,6 @@
+@Circuitly.Api_HostAddress = http://localhost:5248
+
+GET {{Circuitly.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
